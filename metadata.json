@@ -1,0 +1,6 @@
+{
+  "name": "Consulta CNPJ",
+  "description": "Consulta moderna de CNPJ via API pública com resumo cadastral completo, renderizador dinâmico de todos os campos e visualizador de JSON bruto.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
